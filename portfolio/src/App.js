@@ -14,14 +14,14 @@ function App() {
             <Link to="/aboutme">AboutMe</Link>
             <Link to="/projects">Projects</Link>
             <Link to="/contact">Contact</Link>
-            </Navigation>
+          </Navigation>
         </Header>
         <Drawer title="Menu">
           <Navigation>
-          <Link to="/resume">Resume</Link>
-          <Link to="/aboutme">AboutMe</Link>
-          <Link to="/projects">Projects</Link>
-          <Link to="/contact">Contact</Link>
+            <Link to="/resume">Resume</Link>
+            <Link to="/aboutme">AboutMe</Link>
+            <Link to="/projects">Projects</Link>
+            <Link to="/contact">Contact</Link>
           </Navigation>
         </Drawer>
         <Content>
