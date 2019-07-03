@@ -1,14 +1,11 @@
 
  .header-color{
-  background: #FC466B;  /* fallback for old browsers */
-  background: -webkit-linear-gradient(to left, #3F5EFB, #FC466B);  /* Chrome 10-25, Safari 5.1-6 */
-  background: linear-gradient(to left, #3F5EFB, #FC466B); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
-  
+  background: #283048;  /* fallback for old browsers */
+background: -webkit-linear-gradient(to top, #859398, #283048);  /* Chrome 10-25, Safari 5.1-6 */
+background: linear-gradient(to top, #859398, #283048); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+
  }
  .landing-grid{
-  background: #FC466B;  /* fallback for old browsers */
-  background: -webkit-linear-gradient(to left, #3F5EFB, #FC466B);  /* Chrome 10-25, Safari 5.1-6 */
-  background: linear-gradient(to left, #3F5EFB, #FC466B); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
   position: fixed;
   top:0;
   left:0;
@@ -62,15 +59,13 @@
      font-size: 5em;
      padding: 6px;
    }
-   projects-grid {
-    display: flex;
+   .projects-grid a {
+    text-decoration: none;
   }
 
-  .about{
-    width:80%;
-  }
   
-  /* Resume Page css */
+  
+  
   .resume-right-col {
     background: #27221F;
     color: white;
