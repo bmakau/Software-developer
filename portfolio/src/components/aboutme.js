@@ -7,7 +7,7 @@ export default class AboutMe extends Component {
       <div className="projects-grid">
         <Card
           shadow={0}
-          style={{ width: "900px", height: "600px", margin: "auto" }}
+          style={{ width: "600px", height: "500px", margin: "auto" }}
         >
           <CardTitle
             expand
@@ -29,9 +29,6 @@ export default class AboutMe extends Component {
               problem solving capability.
             </p>
           </CardText>
-          <CardActions border>
-            <Button colored>View Updates</Button>
-          </CardActions>
         </Card>
       </div>
     );
