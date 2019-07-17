@@ -20,12 +20,13 @@ export default class AboutMe extends Component {
           </CardTitle>
           <CardText>
             <p>
-              Hi, I'm Boniface, a software engineer based in Columbus Ohio. With
-              over three years of experience, I can help you make your next
-              website and software for your business. I am available to work
+              Hi, I'm Boniface, a software engineer based in Columbus Ohio. I have
+              worked with the following technologies that is Java, React, JavaScript,
+               Python and Node Js. I can help you build next exciting website and software
+              for your business. I am available to work
               remotely and willing to relocate. I am available for hire full
               time, part time and also, per project. I am quick learner, goal
-              oriented, team player, willing to learn new technologies and
+              oriented, team player, willing to learn new technologies and 
               problem solving capability.
             </p>
           </CardText>
